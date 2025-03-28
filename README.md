@@ -6,6 +6,12 @@ Create a react app, you can run:
 
 ### `npx create-react-app my-app`
 ### `cd my-app`
+
+Install Material UI, you can run:
+### `npm install @material-ui/core`
+
+Start your project
+
 ### `npm start`
 
 Runs the app in the development mode.\
