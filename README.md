@@ -1,9 +1,11 @@
 # Getting Started with Create React App
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+Create a react app, you can run:
 
+### `npx create-react-app my-app`
+### `cd my-app`
 ### `npm start`
 
 Runs the app in the development mode.\
