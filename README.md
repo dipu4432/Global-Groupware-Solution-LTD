@@ -14,3 +14,8 @@ The page will reload when you make changes.
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Hosting on Vercel
+
+Click here, [on vercel](https://global-groupware-solution-ltd-project.vercel.app/).
